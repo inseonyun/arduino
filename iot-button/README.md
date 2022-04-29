@@ -21,6 +21,7 @@
 <p align=center>
     <img src="https://user-images.githubusercontent.com/84364741/163798159-4d5a7a0e-277a-4997-9dc6-f486bf08b18e.png" weight="500">
 </p> 
+
 + 사용자가 슬라이더를 움직여 그 각도만큼 서보 모터를 움직이도록 웹서버에 요청한다.
 + 요청을 받은 웹서버에서 아두이노를 응답시켜 서보모터가 해당 각도만큼 움직이도록 한다.
 
